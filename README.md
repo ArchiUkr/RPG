@@ -1,6 +1,8 @@
-<h1 align="center">Warrior Queen</a> 
+<h1 align="center">Witch Quest</a> 
 
 <h3 align="center">About the game</h3>
+
+"Embark on a mystical journey through the enchanted witch's forest, where a mysterious force threatens the balance of the land. As the main character, it is your duty to uncover the truth behind the disturbance and restore peace to the forest. Along the way, you'll be tasked with completing various quests to collect rare ingredients and study the ancient art of magic. As you explore the dense woods and ancient ruins, you'll encounter a variety of challenges, from solving puzzles to battling fierce creatures. With each quest completed, you'll gain valuable knowledge and power, bringing you closer to unraveling the forest's secrets and saving it from destruction. Will you have what it takes to solve the mystery and become a true master of magic?"
 
 Warrior Queen" is a fantasy RPG game that follows the journey of a powerful war girl, the main character. As the leader of her people,
 she must navigate the dangerous and ever-changing political landscape of the fantasy realm, using her strength, wit and powerful magical 
