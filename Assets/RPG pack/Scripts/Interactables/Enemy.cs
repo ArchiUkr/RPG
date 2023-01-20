@@ -94,8 +94,11 @@ public class Enemy : Interactable {
         int lootIndex = Random.Range(0, loots.Length);
         GameObject currentLoot = loots[lootIndex];
 
-        Instantiate(currentLoot, lootPosition.position, Quaternion.identity);
-        Debug.Log("Drop Loot: " + currentLoot.name + ", Gold Drop: " + goldValue);
+        if (currentLoot != null)
+		{
+			Instantiate(currentLoot, lootPosition.position, Quaternion.identity);
+			Debug.Log("Drop Loot: " + currentLoot.name + ", Gold Drop: " + goldValue);
+		}
     }
 
 }
