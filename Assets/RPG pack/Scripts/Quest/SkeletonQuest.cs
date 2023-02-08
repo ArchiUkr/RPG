@@ -272,26 +272,26 @@ public class SkeletonQuest : MonoBehaviour
         }
     }
 
-    void startQuest()
+    public void startQuest()
     {
         startSQ = true;
         questIndex++;
     }
-     void startQuest2()
+    public void startQuest2()
     {
         StartQO = true;
         Dialog.SetActive(false);
         questIndex++;
     }
 
-     void startQuest3()
+    public void startQuest3()
     {
         StartFQ = true;
         Dialog.SetActive(false);
         questIndex++;
     }
 
-     void startQuest4()
+    public void startQuest4()
     {
         StartBQ = true;
         Dialog.SetActive(false);
